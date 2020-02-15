@@ -1,0 +1,4 @@
+class Uploader < Constants
+
+
+end
